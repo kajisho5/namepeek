@@ -1,2 +1,16 @@
-# bulk-rename
-Batch file renaming for Mac with regex, numbering, and full/half-width conversion.
+# namepeek（仮名）
+
+**一括リネーム強化**
+
+## 課題（Mac標準の不便）
+Finderの名前変更は正規表現も文字種変換もできず、複数ファイルの整形が苦痛。
+
+## 計画している機能
+- 正規表現での置換
+- 連番・日付付与
+- 全角→半角などの文字種変換
+- 変更前プレビューと取り消し
+
+## ステータス
+仮名・構想段階。2026-10-26に「Mac標準の足りないところ」候補としてリポジトリを作成。
+出典リスト: ~/workspace/apps/macos-builtin-pain-points.md
